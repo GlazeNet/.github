@@ -1,4 +1,4 @@
-<h1><img height=50 width=50 src="https://github.com/GlazeNet/.github/assets/143252455/e254cec0-4707-4a9a-b9cf-ef36f19f4e8c" align="left"> GlazeNet ❄️ - Move forward to the new journey of adventure!</h1>
+<h1><img height=30 width=30 src="https://github.com/GlazeNet/.github/assets/143252455/e254cec0-4707-4a9a-b9cf-ef36f19f4e8c" align="left"> GlazeNet ❄️ - Move forward to the new journey of adventure!</h1>
 
 ![](https://dcbadge.vercel.app/api/server/kpAdXNCmRR)
 
