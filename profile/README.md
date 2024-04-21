@@ -6,7 +6,7 @@
 **We are an upcoming Minecraft: Bedrock Server that provides in-depth gameplay, minigames, and socializing customizations.**
 We use github to expand our experience while building something awesome.
 
-## Roles - Join our team!
+## Roles - Join our team! 👨‍💻
 📅 **Content creator:** The content creator will be responsible for designing and implementing exciting gameplay mechanics and organizing in-game events to keep players engaged. They will play a key role in creating a dynamic and immersive gaming experience for players.
 
 🚧 **Builder:** The builder will be responsible for constructing and shaping the game's worlds, maps, and prefabs. They will work closely with the rest of the development team to bring the game world to life and ensure that it meets the desired level of detail and functionality.
